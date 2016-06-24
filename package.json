@@ -1,5 +1,5 @@
 {
-  "name": "0.1.0",
+  "name": "platzigram",
   "version": "0.1.0",
   "description": "Comparte tus fotos estudiando en Platzi con el resto de la comunidad",
   "main": "server.js",
