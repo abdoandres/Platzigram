@@ -14,7 +14,7 @@ page('/', function (ctx, next) {
         avatar: 'https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/11705294_10154102081697846_6063819715923358952_n.jpg?oh=7974667a7c5db1c1b37f95c6f50df48b&oe=57F5A3A3'
       },
       url: 'office.jpg',
-      likes: 10,
+      likes: 0,
       liked: false,
       createdAt: new Date()
     },
@@ -24,7 +24,7 @@ page('/', function (ctx, next) {
         avatar: 'https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/11705294_10154102081697846_6063819715923358952_n.jpg?oh=7974667a7c5db1c1b37f95c6f50df48b&oe=57F5A3A3'
       },
       url: 'office.jpg',
-      likes: 2,
+      likes: 1,
       liked: true,
       createdAt: new Date().setDate(new Date().getDate() - 10)
     }
